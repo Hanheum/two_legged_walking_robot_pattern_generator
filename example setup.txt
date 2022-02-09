@@ -1,0 +1,25 @@
+One Action Time:0.5
+Body Particle Mass:290
+Leg1 Upper Particle:(0, 12.7, 7.5)
+Leg1 Knee Particle:(0, 8.9, 0)
+Leg1 Ancle Particle:(0, 0, 6.5)
+Leg2 Upper Particle:(13.5, 12.7, 7.5)
+Leg2 Knee Particle:(13.5, 8.9, 0)
+Leg2 Ancle Particle:(13.5, 0, 6.5)
+Body Particle:(6.75, 22.4, 7.5)
+Leg1 Upper Mass:295
+Leg1 Knee Mass:100
+Leg1 Ancle Mass:250
+Leg2 Upper Mass:295
+Leg2 Knee Mass:100
+Leg2 Ancle Mass:250
+Forwarding Rate:2
+Gap allow:3
+File Save Dir:C:\\Users\\chh36\\Desktop\\result.txt
+
+====================
+Calculation Process
+====================
+
+[====================]100%
+Time Spent:546.1271884441376 Seconds
